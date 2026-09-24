@@ -1,0 +1,12 @@
+item,qty_unit,unit_cost_inr,notes
+sense plate (copper/PCB),1,80,driven guard ring
+opamp TL072/OPA2140,1,120,JFET/CMOS buffer Rin>1G
+resistor 1G bias,1,25,guarded layout + conformal coat
+Sallen-Key 40-60Hz passives,1,60,2nd order
+gain stage + level shift,1,90,x10/x100 + 0-3.3V
+MCU ESP32-S3/STM32L4 module,1,450,see firmware target
+SX1262 865-867MHz module,1,550,NOT 915MHz
+6V 1W solar panel,1,180,5-day monsoon budget
+18650 LiFePO4 1500mAh,1,140,heat-safe vs Li-ion
+charger CN3791/TP5000 + LDO,1,60,Iq<10uA
+IP65 enclosure + clamp + jig,1,0,TBD - fill live pricing
