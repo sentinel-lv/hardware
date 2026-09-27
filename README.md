@@ -64,7 +64,7 @@ The PCB is a means. The dataset is what makes the project credible. For a fixed 
 
 Output: a CSV in `hardware/data/`, plus plots. Then hand this to the simulator owner so the synthetic signal model is re-fitted to real probe behaviour instead of a guess.
 
-The rain and humidity rows are the ones a KSEBL engineer will ask about. Have the numbers.
+The rain and humidity rows are the ones a distribution-utility engineer will ask about. Have the numbers.
 
 ## 5. Power
 
